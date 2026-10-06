@@ -10,3 +10,4 @@ codes as I learn Java.
 - Constructors
 - Arrays
 - Strings
+- Inheritance
